@@ -38,6 +38,10 @@ nav {
   gap : 10px;
 }
 
+.placeimg img {
+    width: 30%;
+    border-radius: 8px;
+    
 #footer {
   background-color: black;
   color: white;
