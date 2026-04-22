@@ -7,7 +7,7 @@ Description
 This is a personal photography portfolio website showcasing my favorite photos and biography.
 
 link
-https://github.com/larrykibet-24/Photography-website
+https://github.com/larrykibet-24/Photography-web
 
 Contents
 - Gallery of favorite photos
